@@ -1,0 +1,27 @@
+{
+  "name": "copypasta_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salman0ansari/CopyPasta.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "salman0ansari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salman0ansari/CopyPasta/issues"
+  },
+  "homepage": "https://github.com/salman0ansari/CopyPasta#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "telegraf": "^4.4.0"
+  }
+}
