@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/salman0ansari/CopyPasta#readme",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "telegraf": "^4.4.0"
   }
 }
